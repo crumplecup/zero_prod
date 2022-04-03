@@ -2,7 +2,7 @@
 name = "zero2prod"
 version = "0.1.0"
 authors = ["crumplecup <erik.w.rose@gmail.com>"]
-edition = "2021"
+edition = "2018"
 
 [lib]
 # We could use any path here, but we are following the community convention
