@@ -1,7 +1,6 @@
-.env
-target/
-tests/
-scripts/
-migrations/
-Cargo.lock
-tags
+**
+!configuration/**
+!src/**
+!Cargo.lock
+!Cargo.toml
+!sqlx-data.json
